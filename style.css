@@ -1,0 +1,24 @@
+header {
+    background: url(image1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+section{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+}
+.work{
+    margin: 0 auto;
+}
+div {
+    margin-bottom: 10px;
+}
+label {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+button {
+    margin-top: 1vw;
+}
